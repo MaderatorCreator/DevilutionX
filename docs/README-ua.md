@@ -18,7 +18,7 @@
 <img width="838" src="https://github.com/user-attachments/assets/bf3f7f0d-7319-45a6-9615-94537198b3da">
 </p>
 
-<sub>*(Індикатори здоров'я ворога і досвіду вимкнені за замовчуванням, але можуть бути ввімкнені в [налаштуваннях гри](https://github.com/diasurgical/devilutionX/wiki/DevilutionX-diablo.ini-configuration-guide). Широкоекранний режим також можна вимкнути.)*</sub>
+<sub>*(Індикатори здоров'я ворога і досвіду вимкнені за замовчуванням, але можуть бути ввімкнені в [налаштуваннях гри](https://github.com/diasurgical/DevilutionX/wiki/Config-File). Широкоекранний режим також можна вимкнути.)*</sub>
 
 # Що таке DevilutionX
 
